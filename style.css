@@ -10,3 +10,11 @@
   width: 240px;
   height: 240px;
 }
+
+.background-change-hover:hover {
+  background-color: lime;
+}
+
+.background-change-hover {
+  transition: background-color 2s;
+}

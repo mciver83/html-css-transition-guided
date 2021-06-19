@@ -4,3 +4,8 @@
   background-color: #123456;
   margin: 24px;
 }
+
+.square:hover {
+  width: 240px;
+  height: 240px;
+}

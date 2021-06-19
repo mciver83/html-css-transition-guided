@@ -3,6 +3,7 @@
   height: 200px;
   background-color: #123456;
   margin: 24px;
+  transition: width 2s ease-in-out, height 2s ease-in-out;
 }
 
 .square:hover {
